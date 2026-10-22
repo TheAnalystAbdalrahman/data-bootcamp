@@ -1,0 +1,71 @@
+Sean has just started a new job where
+he's going to be working with Excel quite a lot and he's feeling a bit nervous. Let's help Sean take charge of Excel. I have just opened Excel 2016,
+if you are working with an older version, you may find some things
+look a bit different but they mostly work the same, so don't worry. In 2016, you will come to this screen
+where you can chose to open a file you have been working recently or
+got to a blank workbook. We're going to click Blank Workbook. And here we are, welcome to Excel. Let's start by getting familiar with
+where things are and what they're called. To begin with, we have a large
+toolbar at the top of our screen. This is called the ribbon, and it contains
+nearly all the tools we're going to need. There were so many though, that they
+couldn't fit them all into one stretch. So we're on the Home tab of the ribbon,
+but you'll notice there's also an Insert tab that has tools for
+inserting things like pictures and charts. Or there's a Data tab which gives us tools
+for working with data, like sorting and filtering. As we go through the course, you'll
+become more familiar with the tabs and the tools on them. Coming back to the Home tab though, I'd
+like you to notice that the tools haven't been scattered randomly across the ribbon,
+they've been logically grouped. So for example,
+this group is called my Font group and it contains all the tools that
+I need to change my text. At the bottom right hand
+corner of some of the groups, you'll find what's called
+a small dialog launcher. If you single click on that,
+it opens up your additional options. We won't need these very often, but
+it's nice to know they're there. I'm going to click Cancel to close. One tab on the ribbon that is a little
+bit special, is the File tab. When we click on the File tab it
+brings us to the Backstage View. And this contains all the tools
+we need for managing our file, like Open, Save, or Close. To come out of the backstage view,
+click on the back arrow or press the escape key on your keyboard. Now we'd like to use our backstage
+view to open our first file. So I'm going to click file and
+make sure you've come to Open. If you have worked with the file recently,
+it will appear in your recents list. Otherwise, you will need
+to click the Browse button. If you haven't already, please make sure
+you've downloaded the file you need for this practice video. Then navigate to it. Mine is in the Documents folder,
+and I've put in Excel Essentials. The file we need is W01 V01 take charge. And I'm going to double-click to open it. We now have something to look at. The ribbon does take up
+quite a lot of space, and so we have the option to collapse it by
+double-clicking on any of the Tabs. That does free up space, but it can be a bit alarming when
+your ribbon suddenly vanishes. If that happens by mistake, don't panic, to get it back just double click on
+any of the ribbon tabs and we're back. Now just above the ribbon,
+you will notice another toolbar. This little guy is called our
+quick access toolbar, and it has my two favorite commands,
+save and undo. It also has the redo, but
+even more importantly we can change this quick access toolbar to
+contain the tools that we need. If I come to the drop down arrow and
+click, it gives me some favorites. There's some really great stuff here,
+I'm going to click on the Sort Ascending. Now if I need to quickly
+sort my data by city, I can click into city, click A to Z,
+and my data's resorted. What about all the other tools
+that aren't on our drop down? Well they can be added too. So for example,
+I'm going to click on my Review tab, and come to my Spelling and my Proofing group. Now this time I'm going to right-click,
+and then click, Add to Quick Access Toolbar,
+and there it is. So absolutely any tool in your ribbon
+can be added to the quick access by right-clicking. Customize this toolbar to
+speed up your workflow. Just under the ribbon, you will see
+another bar called the Formula Bar. This bar allows you to see what data
+is in a cell, and also edit the data. Now let's come down to the main
+section of our worksheet. When you open an Excel file it
+is typically called a workbook. And a workbook will contain
+at least one worksheet. Inside a worksheet you will notice
+it is divided into columns and rows. At the intersection of each of these
+is a square which we call a cell. I'm going to click on the cell and you see it gets a solid border telling
+me that this is the active cel. Each cell also has a unique
+identifier made up of it's column letter and row number. So I am clicked on D2,
+if I click into this cell, I'm now in C1. Last quick thing, at the bottom of
+your workbook is another small bar called your status bar, it's gray in 2016
+but may appear green in other versions. If I were to select some numeric data,
+you will notice my status bar gives me the average,
+count and sum of those values. So the status bar can be used to see
+what's happening in your workbook and also modify some of the views. We will look at how to use
+it more in the next video. The last thing we want to do
+now is close our workbook. To do this I'm going to click File and
+Close. Excel will check if I want to save first, if you want to keep your changes
+press save, if not don't save. Now it's your chance. Have a go clicking around the ribbon and
+trying out the different tools. Be brave. You can't break Excel.
